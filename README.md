@@ -5,7 +5,7 @@ AndroidIM
 
 ###Very Important Link
 
-[Installation-Tutorial](https://github.com/Pirngruber/AndroidIM/wiki/Installation-Tutorial)
+[Installation-Tutorial](https://github.com/nikunjkacha/AndroidIM/wiki/Installation-Tutorial)
 
 
 ###Features
