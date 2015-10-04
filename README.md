@@ -3,7 +3,7 @@ AndroidIM
 
 ##Android Instant Messaging Application
 
-###VIL - Very Important Link's
+###VIL - Very Important Link
 
 [Installation-Tutorial](https://github.com/Pirngruber/AndroidIM/wiki/Installation-Tutorial)
 
@@ -41,6 +41,3 @@ AndroidIM
     Then run your application in Eclipse with ADT plugin.
     it can be learned how to install Android SDK and ADT plugin.
 
-###Support:
-
-    Support now is given by Pirngruber Dominik (d.pirngruber@gmail.com)
