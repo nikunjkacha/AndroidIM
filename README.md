@@ -3,7 +3,7 @@ AndroidIM
 
 ##Android Instant Messaging Application
 
-###VIL - Very Important Link
+###Very Important Link
 
 [Installation-Tutorial](https://github.com/Pirngruber/AndroidIM/wiki/Installation-Tutorial)
 
